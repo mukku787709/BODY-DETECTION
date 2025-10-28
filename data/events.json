@@ -1,0 +1,126 @@
+{"timestamp": "2025-10-29T01:26:12.339720", "type": "bad_posture", "details": {"tilt": 49.143777653487874}}
+{"timestamp": "2025-10-29T01:26:13.059849", "type": "bad_posture", "details": {"tilt": 45.78087659980609}}
+{"timestamp": "2025-10-29T01:26:13.665841", "type": "bad_posture", "details": {"tilt": 57.49957748196005}}
+{"timestamp": "2025-10-29T01:26:14.262357", "type": "bad_posture", "details": {"tilt": 111.32009557348752}}
+{"timestamp": "2025-10-29T01:26:14.790825", "type": "bad_posture", "details": {"tilt": 121.63017470486126}}
+{"timestamp": "2025-10-29T01:26:15.399156", "type": "bad_posture", "details": {"tilt": 91.00107308063907}}
+{"timestamp": "2025-10-29T01:26:15.997803", "type": "bad_posture", "details": {"tilt": 75.08630015783687}}
+{"timestamp": "2025-10-29T01:26:16.574224", "type": "bad_posture", "details": {"tilt": 84.75503710148017}}
+{"timestamp": "2025-10-29T01:26:17.164638", "type": "bad_posture", "details": {"tilt": 89.09386580286994}}
+{"timestamp": "2025-10-29T01:26:17.740360", "type": "bad_posture", "details": {"tilt": 90.7261903950224}}
+{"timestamp": "2025-10-29T01:26:18.317924", "type": "bad_posture", "details": {"tilt": 88.12757166757999}}
+{"timestamp": "2025-10-29T01:26:19.984975", "type": "bad_posture", "details": {"tilt": 69.51927708344455}}
+{"timestamp": "2025-10-29T01:26:20.612160", "type": "bad_posture", "details": {"tilt": 50.8943801341783}}
+{"timestamp": "2025-10-29T01:26:21.187062", "type": "bad_posture", "details": {"tilt": 65.25855583900123}}
+{"timestamp": "2025-10-29T01:26:21.761264", "type": "bad_posture", "details": {"tilt": 65.93165283998933}}
+{"timestamp": "2025-10-29T01:26:22.416088", "type": "bad_posture", "details": {"tilt": 63.906259874521254}}
+{"timestamp": "2025-10-29T01:26:23.024267", "type": "bad_posture", "details": {"tilt": 55.94021146569118}}
+{"timestamp": "2025-10-29T01:26:23.850745", "type": "bad_posture", "details": {"tilt": 76.8409559488775}}
+{"timestamp": "2025-10-29T01:26:24.817733", "type": "bad_posture", "details": {"tilt": 75.07664900190498}}
+{"timestamp": "2025-10-29T01:26:25.397391", "type": "bad_posture", "details": {"tilt": 25.385920890981915}}
+{"timestamp": "2025-10-29T01:26:26.310972", "type": "drowsiness", "details": {"ear": 0.21054485869324413}}
+{"timestamp": "2025-10-29T01:26:26.984127", "type": "yawning", "details": {"mar": 1.2645737059313458}}
+{"timestamp": "2025-10-29T01:26:27.596877", "type": "bad_posture", "details": {"tilt": 32.20932393943147}}
+{"timestamp": "2025-10-29T01:26:30.162609", "type": "bad_posture", "details": {"tilt": 31.584018397314086}}
+{"timestamp": "2025-10-29T01:26:30.721461", "type": "bad_posture", "details": {"tilt": 32.505777648958805}}
+{"timestamp": "2025-10-29T01:26:31.288800", "type": "bad_posture", "details": {"tilt": 34.349015634091735}}
+{"timestamp": "2025-10-29T01:26:31.852658", "type": "bad_posture", "details": {"tilt": 33.94341738376194}}
+{"timestamp": "2025-10-29T01:26:32.464195", "type": "bad_posture", "details": {"tilt": 95.45747689151895}}
+{"timestamp": "2025-10-29T01:26:33.040041", "type": "bad_posture", "details": {"tilt": 84.66861890990117}}
+{"timestamp": "2025-10-29T01:26:33.605204", "type": "bad_posture", "details": {"tilt": 82.60549652736556}}
+{"timestamp": "2025-10-29T01:26:34.171713", "type": "bad_posture", "details": {"tilt": 78.22333259097792}}
+{"timestamp": "2025-10-29T01:26:34.737186", "type": "bad_posture", "details": {"tilt": 78.64530753190783}}
+{"timestamp": "2025-10-29T01:26:35.317464", "type": "bad_posture", "details": {"tilt": 78.16974897385006}}
+{"timestamp": "2025-10-29T01:26:35.899222", "type": "bad_posture", "details": {"tilt": 73.88390487934635}}
+{"timestamp": "2025-10-29T01:26:36.464835", "type": "bad_posture", "details": {"tilt": 70.9262827301052}}
+{"timestamp": "2025-10-29T01:26:37.043668", "type": "bad_posture", "details": {"tilt": 71.11452252120837}}
+{"timestamp": "2025-10-29T01:26:37.638398", "type": "bad_posture", "details": {"tilt": 62.71655749541567}}
+{"timestamp": "2025-10-29T01:26:38.217937", "type": "bad_posture", "details": {"tilt": 78.77733187619256}}
+{"timestamp": "2025-10-29T01:26:38.780930", "type": "bad_posture", "details": {"tilt": 74.4018214670715}}
+{"timestamp": "2025-10-29T01:26:39.354390", "type": "bad_posture", "details": {"tilt": 69.82999947204216}}
+{"timestamp": "2025-10-29T01:26:42.026516", "type": "yawning", "details": {"mar": 1.4564283603715846}}
+{"timestamp": "2025-10-29T01:26:44.523325", "type": "bad_posture", "details": {"tilt": 117.313563678679}}
+{"timestamp": "2025-10-29T01:26:44.677197", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:26:45.355212", "type": "bad_posture", "details": {"tilt": 62.34950020705756}}
+{"timestamp": "2025-10-29T01:26:49.120440", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:26:49.171661", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:26:56.237408", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:26:56.302761", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:11.227283", "type": "bad_posture", "details": {"tilt": 64.05600808613191}}
+{"timestamp": "2025-10-29T01:27:11.805965", "type": "bad_posture", "details": {"tilt": 51.272639209450325}}
+{"timestamp": "2025-10-29T01:27:12.399128", "type": "bad_posture", "details": {"tilt": 62.44240634708011}}
+{"timestamp": "2025-10-29T01:27:12.985437", "type": "bad_posture", "details": {"tilt": 51.65729174305076}}
+{"timestamp": "2025-10-29T01:27:13.622305", "type": "bad_posture", "details": {"tilt": 52.57909594799187}}
+{"timestamp": "2025-10-29T01:27:14.222806", "type": "bad_posture", "details": {"tilt": 54.746593928712734}}
+{"timestamp": "2025-10-29T01:27:14.822736", "type": "bad_posture", "details": {"tilt": 50.031268681006004}}
+{"timestamp": "2025-10-29T01:27:15.398749", "type": "bad_posture", "details": {"tilt": 46.19269596269242}}
+{"timestamp": "2025-10-29T01:27:15.977999", "type": "bad_posture", "details": {"tilt": 46.91768375792099}}
+{"timestamp": "2025-10-29T01:27:16.594810", "type": "bad_posture", "details": {"tilt": 49.836172160950454}}
+{"timestamp": "2025-10-29T01:27:17.185382", "type": "bad_posture", "details": {"tilt": 51.75896779530815}}
+{"timestamp": "2025-10-29T01:27:17.759359", "type": "bad_posture", "details": {"tilt": 55.19281744771793}}
+{"timestamp": "2025-10-29T01:27:20.287379", "type": "bad_posture", "details": {"tilt": 155.73459129294568}}
+{"timestamp": "2025-10-29T01:27:20.712321", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:21.749917", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:22.358449", "type": "bad_posture", "details": {"tilt": 124.37592196984849}}
+{"timestamp": "2025-10-29T01:27:23.096198", "type": "bad_posture", "details": {"tilt": 130.5915232935396}}
+{"timestamp": "2025-10-29T01:27:25.934366", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:25.989665", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:26.045060", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:26.107397", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:26.176068", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:26.238353", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:26.302681", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:26.367876", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:26.426699", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:26.505592", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:26.597381", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:26.666550", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:26.720720", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:27.289771", "type": "bad_posture", "details": {"tilt": 36.3707468887768}}
+{"timestamp": "2025-10-29T01:27:27.291770", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:27.884773", "type": "bad_posture", "details": {"tilt": 27.753501053120935}}
+{"timestamp": "2025-10-29T01:27:27.887492", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:28.475206", "type": "bad_posture", "details": {"tilt": 28.250697769164905}}
+{"timestamp": "2025-10-29T01:27:28.478189", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:28.542017", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:28.606230", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:28.699636", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:28.768477", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:28.832820", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:28.891560", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:28.949059", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:29.534125", "type": "bad_posture", "details": {"tilt": 31.966247914559364}}
+{"timestamp": "2025-10-29T01:27:29.536123", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:30.117051", "type": "bad_posture", "details": {"tilt": 32.03102755116848}}
+{"timestamp": "2025-10-29T01:27:30.119052", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:32.790645", "type": "drowsiness", "details": {"ear": 0.22045578617509942}}
+{"timestamp": "2025-10-29T01:27:33.306156", "type": "bad_posture", "details": {"tilt": 160.54026842943222}}
+{"timestamp": "2025-10-29T01:27:38.271145", "type": "yawning", "details": {"mar": 1.2231920228114797}}
+{"timestamp": "2025-10-29T01:27:38.773585", "type": "bad_posture", "details": {"tilt": 84.29411336726409}}
+{"timestamp": "2025-10-29T01:27:39.380493", "type": "bad_posture", "details": {"tilt": 144.43365330159736}}
+{"timestamp": "2025-10-29T01:27:41.062300", "type": "bad_posture", "details": {"tilt": 85.32193106226113}}
+{"timestamp": "2025-10-29T01:27:43.570100", "type": "bad_posture", "details": {"tilt": 79.10350846958266}}
+{"timestamp": "2025-10-29T01:27:46.251484", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:46.322121", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:46.389954", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:46.453657", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:46.516712", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:47.450061", "type": "bad_posture", "details": {"tilt": 120.37036214918733}}
+{"timestamp": "2025-10-29T01:27:47.514612", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:47.574810", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:47.640102", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:48.232695", "type": "bad_posture", "details": {"tilt": 116.12002415603651}}
+{"timestamp": "2025-10-29T01:27:48.234433", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:48.317854", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:48.318861", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:48.905057", "type": "bad_posture", "details": {"tilt": 128.44051031356582}}
+{"timestamp": "2025-10-29T01:27:48.909698", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:49.497803", "type": "bad_posture", "details": {"tilt": 122.82579764536129}}
+{"timestamp": "2025-10-29T01:27:49.501799", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:50.076256", "type": "bad_posture", "details": {"tilt": 133.1039281836912}}
+{"timestamp": "2025-10-29T01:27:50.081253", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:50.143086", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:50.730079", "type": "bad_posture", "details": {"tilt": 121.75721838394865}}
+{"timestamp": "2025-10-29T01:27:50.735036", "type": "object_in_hand", "details": {}}
+{"timestamp": "2025-10-29T01:27:51.600958", "type": "bad_posture", "details": {"tilt": 64.31886655288274}}
+{"timestamp": "2025-10-29T01:28:02.280951", "type": "bad_posture", "details": {"tilt": 57.986827951525164}}
